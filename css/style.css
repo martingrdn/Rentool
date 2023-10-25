@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Roboto+Slab:wght@500&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Roboto Slab', serif;
+	font-size: 24px;
+	margin: 0px;
+	text-align: center;
+	background: linear-gradient(#BE7846 0%, #FBF8F5 150%); 
+}
+
+h1, h2, h3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	text-align: center;
+} 
+a {
+	text-decoration: none;
+}
